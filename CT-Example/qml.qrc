@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Wuerfel.qml</file>
+        <file>creator.js</file>
+        <file>../../Pictures/Bakaros.png</file>
+    </qresource>
+</RCC>
